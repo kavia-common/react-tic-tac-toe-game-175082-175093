@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/react-tic-tac-toe-game-175082-175093/sqlite_database"
+}
